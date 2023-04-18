@@ -1,4 +1,4 @@
-package com.iecraft.day5;
+package com.icraft.day5;
 
 import java.util.*;
 public class SwitchDemo1 {

@@ -1,4 +1,4 @@
-package com.iecraft.day5;
+package com.icraft.day5;
 
 public class BranchingStmtsExample {
 
