@@ -1,0 +1,16 @@
+package projapple;
+
+public class applejava {
+
+	public static void main(String[] args) {
+		int myint = 7;
+		double shoesize = 9.5;
+		char myinitial = 'J';
+		String myname = "Natty";
+		
+		double result = myint * shoesize;
+		System.out.println(myname);
+		
+	}
+
+}
